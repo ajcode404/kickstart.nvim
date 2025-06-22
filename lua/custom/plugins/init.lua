@@ -2,6 +2,7 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-
+vim.o.tabstop = 4
+vim.o.shiftwidth = 4
 vim.o.relativenumber = true
 return {}
